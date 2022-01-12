@@ -7,6 +7,8 @@
 1. install docker
 2. `docker-compose up -d`
 
+Run the create-databases.sql in the mysql db. I did this using TablePlus.
+
 ## References
 
 - [Docker Tutorial](https://www.youtube.com/watch?v=kOrGN36ViaU)
