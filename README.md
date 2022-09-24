@@ -1,6 +1,7 @@
 # MySQL Beginner
 
-- [MySQL for Beginners Tutoral](https://www.youtube.com/watch?v=7S_tz1z_5bA)
+Tutoral from Programming with Mosh:  
+https://www.youtube.com/watch?v=7S_tz1z_5bA
 
 ## Installation
 
